@@ -4,7 +4,7 @@
 .nuxt
 .nitro
 .cache
-# dist - needed firebase
+dist
 
 # Node dependencies
 node_modules
